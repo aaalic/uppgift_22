@@ -13,6 +13,7 @@ namespace ConsoleApp1
         // Metod
         static void Main(string[] args)
         {
+            //Jag har fixat lite grejer
             Console.WriteLine("In Main");
             PrintStuff("test1");
             PrintStuff("test2");
